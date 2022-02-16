@@ -4,12 +4,13 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+딱히 쓸 말이 없넹..ㅎ 화이팅! 열심히 살쟈!.!
 
-### More Information
+### 버킷리스트?
 
-A place to include any other types of information that you'd like to include about yourself.
+1.
+2.
 
-### Contact me
+### More
 
-[email@domain.com](mailto:email@domain.com)
+[GITHUB](https://github.com/realheeeeeee)
